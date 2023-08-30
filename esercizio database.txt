@@ -1,0 +1,13 @@
+TRACCIA 1
+select * from students where year (date_of_birth)= 1990
+- 160 studenti
+
+Traccia 2
+select * from courses   where cfu > 10 
+-479 studenti
+
+Traccia 7
+select * from departments d 
+
+Traccia 8
+select * from teachers where phone is NULL
